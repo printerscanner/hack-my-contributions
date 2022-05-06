@@ -1,10 +1,14 @@
-# hack-my-contributions
+# Hack My Contributions
 
+## About
 Not on GitHub as much as you'd like to be, but still want your contributions to show green? Here's the hackiest, code golf-iest way to make it look like you're working hard.
+
+
 
 This application echos the current date into a text file and then executes a commit on Github via Cron. Cron is a daemon that executes commands at specific dates and times.
 
 
+## Usage
 First, clone the repository, then make a cron by typing the command below into your shell.
 
 
