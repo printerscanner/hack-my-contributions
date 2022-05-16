@@ -7,13 +7,13 @@ This application echos the current date into a text file and then executes a com
 
 
 ## Installation
-First, clone the repository, then make a cron by typing the command below into your shell. In order to git push via cron, you'll need to use SSH instead of HTTPS. You can change that in your directory using:
+First, clone the repository. In order to git push via cron, you'll need to use SSH instead of HTTPS. You can change that in your directory using:
 
 ```
 git remote set-url origin git@github.com:username/repo.git
-
 ```
 
+Then, make a cron by typing the command below into your shell.
 
 ```
 crontab -e
