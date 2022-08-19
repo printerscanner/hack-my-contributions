@@ -26,5 +26,8 @@ Below is an example of my cron job. The first section `23 0-20 * * *` designates
 
 The second part is the command you would like to run at that specific time. This one directs you to the code and executes the file. Be sure to put your own path in.
 
+## Additional Options
+If you want to make it looking like you're working even harder, when you clone this repository, change the name to something like `proxy-server-package`. No one will be the wiser.
+
 ## Contributing
 If you'd like to contribute to this repository feel free to fork/submit a pull request, and if you have any suggestions feel free to email me at abbeyyacoe@gmail.com.
